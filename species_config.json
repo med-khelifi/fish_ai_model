@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "name_ar": "الوراطة",
+    "name_fr": "Dorade royale",
+    "folder": "001_الوراطة"
+  },
+  {
+    "id": 2,
+    "name_ar": "القاروص",
+    "name_fr": "Loup de mer",
+    "folder": "002_القاروص"
+  },
+  {
+    "id": 3,
+    "name_ar": "السردينة",
+    "name_fr": "Sardine",
+    "folder": "003_السردينة"
+  },
+  { "id": 4, "name_ar": "البوري", "name_fr": "Mulet", "folder": "004_البوري" },
+  {
+    "id": 5,
+    "name_ar": "السكمبري",
+    "name_fr": "Maquereau",
+    "folder": "005_السكمبري"
+  },
+  {
+    "id": 6,
+    "name_ar": "التريليا",
+    "name_fr": "Rouget",
+    "folder": "006_التريليا"
+  },
+  {
+    "id": 7,
+    "name_ar": "المرجان",
+    "name_fr": "Pagre commun",
+    "folder": "007_المرجان"
+  },
+  {
+    "id": 8,
+    "name_ar": "المنكوس",
+    "name_fr": "Denté commun",
+    "folder": "008_المنكوس"
+  },
+  {
+    "id": 9,
+    "name_ar": "البلاميطة",
+    "name_fr": "Bonito",
+    "folder": "009_البلاميطة"
+  },
+  { "id": 10, "name_ar": "البوقا", "name_fr": "Bogue", "folder": "010_البوقا" },
+  { "id": 11, "name_ar": "الشلبة", "name_fr": "Sarpa", "folder": "011_الشلبة" },
+  {
+    "id": 12,
+    "name_ar": "المرلان",
+    "name_fr": "Merlan",
+    "folder": "012_المرلان"
+  },
+  {
+    "id": 13,
+    "name_ar": "الغزال",
+    "name_fr": "Grande vive",
+    "folder": "013_الغزال"
+  },
+  {
+    "id": 14,
+    "name_ar": "اللقّوق",
+    "name_fr": "Mérou",
+    "folder": "014_اللقّوق"
+  },
+  {
+    "id": 15,
+    "name_ar": "الجغالي",
+    "name_fr": "Bogaravéo",
+    "folder": "015_الجغالي"
+  },
+  {
+    "id": 16,
+    "name_ar": "الشامة",
+    "name_fr": "Pageot acarné",
+    "folder": "016_الشامة"
+  },
+  {
+    "id": 17,
+    "name_ar": "أبو سيف",
+    "name_fr": "Espadon",
+    "folder": "017_أبو_سيف"
+  },
+  {
+    "id": 18,
+    "name_ar": "التن الأحمر",
+    "name_fr": "Thon rouge",
+    "folder": "018_التن_الأحمر"
+  },
+  {
+    "id": 19,
+    "name_ar": "سمكة الأرنب",
+    "name_fr": "Poisson-lapin",
+    "folder": "019_سمكة_الأرنب"
+  },
+  {
+    "id": 20,
+    "name_ar": "سمكة العقرب",
+    "name_fr": "Rascasse",
+    "folder": "020_سمكة_العقرب"
+  },
+  {
+    "id": 21,
+    "name_ar": "سمكة الأسد",
+    "name_fr": "Poisson-lion",
+    "folder": "021_سمكة_الأسد"
+  },
+  {
+    "id": 22,
+    "name_ar": "السمكة الصندوق",
+    "name_fr": "Poisson-coffre",
+    "folder": "022_السمكة_الصندوق"
+  },
+  {
+    "id": 23,
+    "name_ar": "دجاج البحر",
+    "name_fr": "Poisson-poule",
+    "folder": "023_دجاج_البحر"
+  },
+  {
+    "id": 24,
+    "name_ar": "السلطعون الأزرق",
+    "name_fr": "Crabe bleu",
+    "folder": "024_السلطعون_الأزرق"
+  },
+  { "id": 25, "name_ar": "الحنش", "name_fr": "Murène", "folder": "025_الحنش" },
+  {
+    "id": 26,
+    "name_ar": "الكلب بحر",
+    "name_fr": "Requin taupe",
+    "folder": "026_الكلب_بحر"
+  },
+  {
+    "id": 27,
+    "name_ar": "قرش المطرقة",
+    "name_fr": "Requin marteau",
+    "folder": "027_قرش_المطرقة"
+  },
+  {
+    "id": 28,
+    "name_ar": "القرنيط",
+    "name_fr": "Poulpe",
+    "folder": "028_القرنيط"
+  },
+  {
+    "id": 29,
+    "name_ar": "الحبار",
+    "name_fr": "Calmar",
+    "folder": "029_الحبار"
+  },
+  {
+    "id": 30,
+    "name_ar": "الجمبري",
+    "name_fr": "Crevette",
+    "folder": "030_الجمبري"
+  },
+  {
+    "id": 31,
+    "name_ar": "الكركند",
+    "name_fr": "Langouste",
+    "folder": "031_الكركند"
+  },
+  {
+    "id": 32,
+    "name_ar": "سمكة الحجر",
+    "name_fr": "Poisson-pierre",
+    "folder": "032_سمكة_الحجر"
+  }
+]
