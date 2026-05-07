@@ -1,0 +1,162 @@
+{
+  "0": {
+    "fish_id": 1,
+    "name_ar": "الوراطة",
+    "name_fr": "Dorade royale"
+  },
+  "1": {
+    "fish_id": 2,
+    "name_ar": "القاروص",
+    "name_fr": "Loup de mer"
+  },
+  "2": {
+    "fish_id": 3,
+    "name_ar": "السردينة",
+    "name_fr": "Sardine"
+  },
+  "3": {
+    "fish_id": 4,
+    "name_ar": "البوري",
+    "name_fr": "Mulet"
+  },
+  "4": {
+    "fish_id": 5,
+    "name_ar": "السكمبري",
+    "name_fr": "Maquereau"
+  },
+  "5": {
+    "fish_id": 6,
+    "name_ar": "التريليا",
+    "name_fr": "Rouget"
+  },
+  "6": {
+    "fish_id": 7,
+    "name_ar": "المرجان",
+    "name_fr": "Pagre commun"
+  },
+  "7": {
+    "fish_id": 8,
+    "name_ar": "المنكوس",
+    "name_fr": "Denté commun"
+  },
+  "8": {
+    "fish_id": 9,
+    "name_ar": "البلاميطة",
+    "name_fr": "Bonito"
+  },
+  "9": {
+    "fish_id": 10,
+    "name_ar": "البوقا",
+    "name_fr": "Bogue"
+  },
+  "10": {
+    "fish_id": 11,
+    "name_ar": "الشلبة",
+    "name_fr": "Sarpa"
+  },
+  "11": {
+    "fish_id": 12,
+    "name_ar": "المرلان",
+    "name_fr": "Merlan"
+  },
+  "12": {
+    "fish_id": 13,
+    "name_ar": "الغزال",
+    "name_fr": "Grande vive"
+  },
+  "13": {
+    "fish_id": 14,
+    "name_ar": "اللقّوق",
+    "name_fr": "Mérou"
+  },
+  "14": {
+    "fish_id": 15,
+    "name_ar": "الجغالي",
+    "name_fr": "Bogaravéo"
+  },
+  "15": {
+    "fish_id": 16,
+    "name_ar": "الشامة",
+    "name_fr": "Pageot acarné"
+  },
+  "16": {
+    "fish_id": 17,
+    "name_ar": "أبو سيف",
+    "name_fr": "Espadon"
+  },
+  "17": {
+    "fish_id": 18,
+    "name_ar": "التن الأحمر",
+    "name_fr": "Thon rouge"
+  },
+  "18": {
+    "fish_id": 19,
+    "name_ar": "سمكة الأرنب",
+    "name_fr": "Poisson-lapin"
+  },
+  "19": {
+    "fish_id": 20,
+    "name_ar": "سمكة العقرب",
+    "name_fr": "Rascasse"
+  },
+  "20": {
+    "fish_id": 21,
+    "name_ar": "سمكة الأسد",
+    "name_fr": "Poisson-lion"
+  },
+  "21": {
+    "fish_id": 22,
+    "name_ar": "السمكة الصندوق",
+    "name_fr": "Poisson-coffre"
+  },
+  "22": {
+    "fish_id": 23,
+    "name_ar": "دجاج البحر",
+    "name_fr": "Poisson-poule"
+  },
+  "23": {
+    "fish_id": 24,
+    "name_ar": "السلطعون الأزرق",
+    "name_fr": "Crabe bleu"
+  },
+  "24": {
+    "fish_id": 25,
+    "name_ar": "الحنش",
+    "name_fr": "Murène"
+  },
+  "25": {
+    "fish_id": 26,
+    "name_ar": "الكلب بحر",
+    "name_fr": "Requin taupe"
+  },
+  "26": {
+    "fish_id": 27,
+    "name_ar": "قرش المطرقة",
+    "name_fr": "Requin marteau"
+  },
+  "27": {
+    "fish_id": 28,
+    "name_ar": "القرنيط",
+    "name_fr": "Poulpe"
+  },
+  "28": {
+    "fish_id": 29,
+    "name_ar": "الحبار",
+    "name_fr": "Calmar"
+  },
+  "29": {
+    "fish_id": 30,
+    "name_ar": "الجمبري",
+    "name_fr": "Crevette"
+  },
+  "30": {
+    "fish_id": 31,
+    "name_ar": "الكركند",
+    "name_fr": "Langouste"
+  },
+  "31": {
+    "fish_id": 32,
+    "name_ar": "سمكة الحجر",
+    "name_fr": "Poisson-pierre"
+  }
+}
